@@ -1,5 +1,5 @@
 # MDwiki
 
-[About](index.md)
+[关于](index.md)
 
-
+[myBlog](../)
